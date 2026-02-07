@@ -49,5 +49,5 @@ Install the required dependencies:
 
 ```bash
 pip install opencv-python numpy tensorflow
-*Run this code by*
+#Run this code by
 python webcam_emotion.py
